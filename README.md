@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
   <img src="./banner.svg" alt="Avishek's Animated Profile Banner" width="100%">
 </picture>
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekkk402@gmail.com) 
 
 # 💻 Tech Stack:
