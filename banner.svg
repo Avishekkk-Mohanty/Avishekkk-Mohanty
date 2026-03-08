@@ -128,11 +128,11 @@
     <g transform="translate(10, 10)">
       <text x="0" y="0" fill="#30363d" font-family="monospace" font-size="14">Avishekkk-Mohanty / README.md</text>
       
-      <text x="0" y="55" fill="#24292e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="bold">💫 About Me:</text>
-      
-      <text x="0" y="100" fill="#424a53" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Hey there, It's Avishek</text>
-      <text x="0" y="125" fill="#424a53" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Aspiring AI&amp;ML Engineer</text>
-      <text x="0" y="150" fill="#424a53" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">OUTR CSE(AI&amp;ML)'29</text>
+      <g text-anchor="middle" font-family="monospace, serif" font-weight="bold" fill="#424a53">
+        <text x="150" y="45" font-size="24">Hey There, it's Avishek</text>
+        <text x="150" y="80" font-size="24">Aspiring AI&amp;ML Engineer</text>
+        <text x="150" y="115" font-size="24">OUTR CSE(AI&amp;ML)'29</text>
+      </g>
     </g>
   </g>
 
